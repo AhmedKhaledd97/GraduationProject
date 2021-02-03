@@ -1,0 +1,66 @@
+/* start about section*/
+.breadcrumb ul, ol
+{
+    margin-top: -59px;
+}
+.breadcrumb > li:first-of-type
+{
+    margin-left: 99px;
+}
+.about .intro h1
+{
+    font-weight: bold
+}
+ .intro  hr
+{
+    width: 70%
+}
+.about .intro p
+{
+ color: #333;
+ font-size: 18px
+}
+
+.about-features
+{
+    margin: 20px 0 ;
+}
+.about-features i
+{
+    margin: 10px;
+}
+.about-features p
+{
+    font-size: 16px;
+    line-height: 1.6
+}
+
+.about-contact
+{
+    margin: 20px 0 ;
+}
+.about-contact p
+{
+    font-size: 16px;
+    line-height: 1.6
+}
+.about-contact button
+{
+    margin: 20px 0
+}
+
+.panel-group a:after
+{
+    content: "\e114";
+    font-family: 'Glyphicons Halflings';
+    float: right;
+    color: #333
+}
+.panel-group a.collapsed:after
+{
+    content: "\e080";
+    font-family: 'Glyphicons Halflings';
+    float: right;
+    color: #333
+}
+/* end about section*/
